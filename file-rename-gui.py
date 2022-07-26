@@ -85,10 +85,6 @@ import os
 #print(res)
 
 
-
-
-# Python program to create
-# a file explorer in Tkinter
   
 # import all components
 # from the tkinter library
@@ -96,7 +92,7 @@ from tkinter import *
   
 # import filedialog module
 from tkinter import filedialog
-from turtle import bgcolor
+#from turtle import bgcolor
   
 # Functions for opening the
 # file explorer window
